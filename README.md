@@ -12,8 +12,8 @@
 ![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/5f95748e-13af-4fd2-966c-5a84ce36f9ec)
 ![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/bd715b75-9012-42d6-9a05-8224c9d6cbea)
 ![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/d8767034-8709-484f-b94e-00e0bda5356e)
-![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/0c76ae59-03cd-4c3e-b93f-cf627a442b23)
-
+![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/4b9b194f-b7e4-4da6-9139-d97106956b55)
+![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/371d5c53-36f0-4cc2-85b2-2fda41fa5c35)
 
 
 
