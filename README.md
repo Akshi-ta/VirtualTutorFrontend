@@ -1,5 +1,26 @@
 ﻿# VirtualTutorFrontend
 
+ # One-to-One Tutor Project
+
+A one-to-one tutor application that provides tutoring based on the topic provided by the user. The project is highly adaptive to the user's understanding and is developed using the Gemini API.
+
+## Features
+
+- *Topic-based Learning:* Choose a topic and get it divided into subtopics ranging from basic to advanced levels.
+  
+- *Learn Option:* Provides the user with content for learning the selected topic.
+  
+- *Take Test Option:* Allows the user to test their learnings on the selected topic.
+  
+- *Doubt Clearing:* Users can ask their doubts while learning as well as during the test.
+
+
+## Installation
+git clone https://github.com/Akshi-ta/VirtualTutorFrontend.git
+cd VirtualTutorFrontend
+npm install
+npm start
+
 
 ![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/2accbda7-5370-427b-93d1-1356a792ead7)
 ![image](https://github.com/Akshi-ta/VirtualTutorFrontend/assets/96609856/854e8be8-bf11-41f5-8483-a34253778b89)
