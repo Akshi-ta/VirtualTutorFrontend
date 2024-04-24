@@ -17,8 +17,11 @@ A one-to-one tutor application that provides tutoring based on the topic provide
 
 ## Installation
 git clone https://github.com/Akshi-ta/VirtualTutorFrontend.git
+
 cd VirtualTutorFrontend
+
 npm install
+
 npm start
 
 
